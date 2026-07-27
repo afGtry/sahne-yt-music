@@ -1,0 +1,11 @@
+{
+  "name": "Sahne — kişisel müzik odan",
+  "short_name": "Sahne",
+  "description": "Kişisel, ticari olmayan öğrenim projesi: YouTube tabanlı müzik dinleme arayüzü.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0d0b",
+  "theme_color": "#0f0d0b",
+  "orientation": "portrait-primary",
+  "icons": []
+}

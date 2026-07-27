@@ -1,0 +1,19 @@
+{
+  "name": "yt-music-learn",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Kişisel öğrenim amaçlı, ticari olmayan YouTube tabanlı müzik dinleme uygulaması.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "youtubei.js": "^17.0.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
