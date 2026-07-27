@@ -56,13 +56,3 @@ yt-music-learn/
 - [x] Medya tuşu desteği (Media Session API) ve klavye kısayolları
       (Boşluk = oynat/duraklat, Shift+→/← = sonraki/önceki, Esc = kapat)
 - [x] Temel PWA manifest'i (ana ekrana ekleme)
-
-## Sırada ne var (birlikte konuştuğumuz sıra ile devam edebiliriz)
-
-- [ ] Service worker ile çevrimdışı kabuk / önbellekleme
-- [ ] Sürüklenebilir kuyruk yeniden sıralama
-- [ ] Albüm/sanatçı bazlı "ilgili şarkılar" önerisi
-- [ ] Uygulama ikonları (manifest.json şu an ikon içermiyor)
-- [ ] Arama sonuçlarında tür filtresi (yalnızca müzik / uzun video vb.)
-
-Bu listeden hangisiyle devam etmemi istersin?
